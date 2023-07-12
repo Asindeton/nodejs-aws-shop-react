@@ -49,14 +49,14 @@ export default function Orders() {
                   {/*{order.statusHistory[order.statusHistory?.length - 1].status}*/}
                 </TableCell>
                 <TableCell align="right">
-                  <Button
-                    size="small"
-                    color="primary"
-                    component={Link}
-                    to={order.id}
-                  >
-                    Manage
-                  </Button>
+                  {/*<Button*/}
+                  {/*  size="small"*/}
+                  {/*  color="primary"*/}
+                  {/*  component={Link}*/}
+                  {/*  to={order.id}*/}
+                  {/*>*/}
+                  {/*  Manage*/}
+                  {/*</Button>*/}
                   <Button
                     size="small"
                     color="secondary"
