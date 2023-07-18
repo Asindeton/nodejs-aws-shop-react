@@ -5,7 +5,7 @@ const IMPORT_PATH =
   "https://owxgrms5fl.execute-api.eu-west-1.amazonaws.com/prod/";
 
 const CART_PATH =
-  " https://wolxk0qmh1.execute-api.eu-west-1.amazonaws.com/prod/api";
+  "http://asindeton-cart-api-2-dev.eu-west-1.elasticbeanstalk.com/api";
 
 const API_PATHS = {
   product: BASE_PATH + "products",
